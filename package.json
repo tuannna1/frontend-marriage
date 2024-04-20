@@ -1,0 +1,7 @@
+{
+  "homepage": "https://tuanna1.github.io/frontend-marriage/",
+
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
